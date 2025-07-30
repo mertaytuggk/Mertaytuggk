@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Mert Aytuğ Gök
 
-<!--
-**mertaytuggk/Mertaytuggk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm a Front-End Developer who enjoys building clean, fast and responsive web applications.  
+Currently, I'm focusing on **JavaScript**, **TypeScript**, and **React/Next.js**.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS  
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Advanced TypeScript patterns
+- Next.js App Router & server-side rendering
+- Performance optimization in React apps
+
+## 📫 Let's Connect
+- 📧 Email: mertaytuggok@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mertaytuggok/)
+
+---
+
+Thanks for visiting my profile! 😊
