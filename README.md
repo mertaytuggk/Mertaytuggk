@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:mertaytuggok@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -58,20 +57,11 @@ I care about writing maintainable code, crafting smooth user experiences and pay
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project Name](https://github.com/YOUR-USERNAME/repo) | Short one-line description of what it does | React · TypeScript · Tailwind |
-| [Project Name](https://github.com/YOUR-USERNAME/repo) | Short one-line description of what it does | Next.js · TypeScript |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mertaytuggk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertaytuggk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
